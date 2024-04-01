@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.easy;
 public class Number_of_Good_Pairs {
     public static void main(String[] args) {
         int[] nums = {1, 2, 3, 1, 1, 3};

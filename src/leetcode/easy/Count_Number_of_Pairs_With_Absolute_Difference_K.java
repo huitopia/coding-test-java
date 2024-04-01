@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.easy;
 
 public class Count_Number_of_Pairs_With_Absolute_Difference_K {
     public static void main(String[] args) {

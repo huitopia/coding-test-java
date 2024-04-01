@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.easy;
 
 
 public class Count_the_Number_of_Consistent_Strings {
