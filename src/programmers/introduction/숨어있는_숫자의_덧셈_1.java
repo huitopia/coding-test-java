@@ -1,9 +1,5 @@
 package programmers.introduction;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 public class 숨어있는_숫자의_덧셈_1 {
     public static void main(String[] args) {
         String my_string = "aAb1B2cC34oOp";
